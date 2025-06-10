@@ -1,5 +1,4 @@
 temu.com
-*.temu.com
 api-us.temu.com
 app.temu.com
 ca.pftk.temu.com
